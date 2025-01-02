@@ -1,0 +1,19 @@
+body {
+  overflow: hidden;
+}
+.custom-container {
+  margin: auto;
+  padding-top: 10px;
+  height: 110vh;
+}
+
+.tab-pane {
+  max-height: 600px;
+  overflow-y: auto;
+  padding-top: 20px;
+  scroll-behavior: smooth;
+}
+
+.tab-content {
+  margin-top: 10px;
+}
